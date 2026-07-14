@@ -43,7 +43,14 @@ npm run lint    # ESLint em todo o projeto
 npm run preview # preview do build
 ```
 
-## Tema
+## Tema 
 
 O tema customizado `sinutre` (paleta verde) está definido em
 `src/styles/theme.css` usando a sintaxe `@plugin 'daisyui/theme'` do daisyUI v5.
+
+
+## Funcionalidades desenvolvidas
+
+Mudança das cores da interface para verde-floresta. 
+
+
