@@ -49,8 +49,21 @@ O tema customizado `sinutre` (paleta verde) está definido em
 `src/styles/theme.css` usando a sintaxe `@plugin 'daisyui/theme'` do daisyUI v5.
 
 
-## Funcionalidades desenvolvidas
+## Requisitos Cumpridos
 
-Mudança das cores da interface para verde-floresta. 
+Requisitos Obrigatórios: 
+  ● Repositórios no github com acesso público do backend e do frontend em sua conta;
+    no github, no repositório do frontend deve constar no README.md as;
+    funcionalidades desenvolvidas;
+  ● Link do MVP no backend no railway;
+  ● Link do MVP no frontend no vercel;
 
+Requisitos Complementares:
+  ● Mudar cores da interface; 
+
+## Funcionalidades
+
+  ● Login com github;
+  ● Visualizar informações das refeições consumidas;
+  ● Adicionar alimento à dieta, com valores de carboidrato, gordura, etc;
 
