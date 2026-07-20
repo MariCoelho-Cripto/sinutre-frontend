@@ -52,18 +52,28 @@ O tema customizado `sinutre` (paleta verde) está definido em
 ## Requisitos Cumpridos
 
 Requisitos Obrigatórios: 
+  
   ● Repositórios no github com acesso público do backend e do frontend em sua conta;
     no github, no repositório do frontend deve constar no README.md as;
     funcionalidades desenvolvidas;
+  
   ● Link do MVP no backend no railway;
+  
   ● Link do MVP no frontend no vercel;
 
 Requisitos Complementares:
+  
   ● Mudar cores da interface; 
 
 ## Funcionalidades
 
   ● Login com github;
+  
   ● Visualizar informações das refeições consumidas;
+  
   ● Adicionar alimento à dieta, com valores de carboidrato, gordura, etc;
+
+  ● Adicionar refeição com a quantidade de alimentos, data/horário da refeição;
+
+  ● Visualizar quantidade de carboidratos, proteínas, gorduras e calorias consumidas no dia;
 
