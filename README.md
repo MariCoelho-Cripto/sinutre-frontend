@@ -63,7 +63,7 @@ Requisitos Obrigatórios:
 
 Requisitos Complementares:
   
-  ● Mudar cores da interface; 
+  ● Mudar cores da interface para tom verde escuro; 
 
 ## Funcionalidades
 
